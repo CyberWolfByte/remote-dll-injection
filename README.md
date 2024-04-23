@@ -28,9 +28,7 @@ The tools and scripts provided in this repository are made available for educati
 
 ## Installation
 
-1. **Python Setup**:
-    - Ensure Python is installed on your system. If not already installed, download and install it from the [official Python website](https://www.python.org/downloads/).
-    - Verify the installation by running `python --version` in the command prompt.
+1. **Python Setup**: Ensure Python is installed on your system. If not already installed, download and install it from the [official Python website](https://www.python.org/downloads/).
 2. **Visual Studio 2022**:
     - Install Visual Studio 2022 with the Desktop development with C++ workload, which includes necessary compilers and the Windows SDK.
     - Ensure the latest updates for Visual Studio and the installed components are applied.
