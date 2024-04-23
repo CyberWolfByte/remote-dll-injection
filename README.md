@@ -20,7 +20,7 @@ The tools and scripts provided in this repository are made available for educati
 
   ## Prerequisites
 
-- **Operating System**: Tested on Windows, version 10 22H2.
+- **Operating System**: Tested on Windows 10 x64, version 22H2.
 - **Python Version**: Python 3.6+
 - **Visual Studio 2022**: For compiling the custom DLL using the provided C code.
 - **Administrator Privileges**: Required to perform operations such as writing to another process's memory space.
